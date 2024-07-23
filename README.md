@@ -54,4 +54,4 @@ Follow the instructions in the examples directory of each project to run the exa
 We welcome contributions to this repository. If you have any ideas, suggestions, or bug fixes, please submit a pull request or open an issue.
 
 ## Contact
-For any queries or further information, please contact "i92tekech@gmai.com".
+For any queries or further information, please contact "i92tekech@gmail.com".
