@@ -45,7 +45,7 @@ To get started with the materials and projects in this repository, follow these 
    git clone https://github.com/Llamatekee/IMD
 
 2. **Install dependencies**:
-Navigate to the respective project directory and install the required dependencies as specified in the README.md of each subdirectory.
+Navigate to the respective project directory and install the required dependencies.
 
 3. **Run examples**:
 Follow the instructions in the examples directory of each project to run the example implementations.
